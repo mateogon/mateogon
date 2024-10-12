@@ -8,10 +8,8 @@ I'm a software engineer specializing in full-stack development, particularly wit
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
-## GitHub Stats
 ![Mateogon's GitHub stats](https://github-readme-stats.vercel.app/api?username=mateogon&show_icons=true&theme=github_dark)
 
-## My GitHub Metrics
 ![Metrics](https://metrics.lecoq.io/mateogon?template=classic&isocalendar=1&languages=1)
 
 ## Connect with me:
