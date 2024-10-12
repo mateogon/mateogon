@@ -11,12 +11,6 @@ I'm a software engineer specializing in full-stack development, particularly wit
 ## GitHub Stats
 ![Mateogon's GitHub stats](https://github-readme-stats.vercel.app/api?username=mateogon&show_icons=true&theme=github_dark)
 
-## Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mateogon&layout=compact&langs_count=6&theme=github_dark)
-
-## Contribution Graph
-![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=mateogon&theme=github-dark)
-
 ## My GitHub Metrics
 ![Metrics](https://metrics.lecoq.io/mateogon?template=classic&isocalendar=1&languages=1)
 
