@@ -13,5 +13,5 @@ I'm a software engineer specializing in full-stack development, particularly wit
 ![Metrics](https://metrics.lecoq.io/mateogon?template=classic&isocalendar=1&languages=1)
 
 ## Connect with me:
-[![Linkedin](https://img.shields.io/badge/-mateogon-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/mateo-gonzalez-arrigorriaga-666092265/)
+[![Linkedin](https://img.shields.io/badge/-mateogon-blue?style=flat&logo=Linkedin&logoColor=white)]([www.linkedin.com/in/mateo-gonzalez-arrigorriaga-666092265/](https://www.linkedin.com/in/mateo-gonzalez-arrigorriaga-666092265/))
 [![Gmail](https://img.shields.io/badge/-mateogon97@hotmail.com-red?style=flat&logo=Gmail&logoColor=white)](mailto:mateogon97@hotmail.com)
