@@ -1,5 +1,9 @@
 # Hi there, I'm Mateo 👋
-I'm a software engineer specializing in full-stack development, particularly with React, Node.js, and Python.
+I'm a **Full Stack Developer** and an **intern** working on simulation software. I enjoy building dynamic applications with **React**, **Node.js**, and **Python**, and exploring **AI models** for creative projects like:
+
+- **Text-to-Speech**: Creating audiobooks.  
+- **Object Detection**: Using YOLO for real-time tracking.  
+- **AI Experimentation**: Innovating with new models.
 
 ## Languages & Tools
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
@@ -9,8 +13,6 @@ I'm a software engineer specializing in full-stack development, particularly wit
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
 ![Mateogon's GitHub stats](https://github-readme-stats.vercel.app/api?username=mateogon&show_icons=true&theme=github_dark)
-
-![Metrics](https://metrics.lecoq.io/mateogon?template=classic&isocalendar=1&languages=1)
 
 ## Connect with me:
 [![Linkedin](https://img.shields.io/badge/-mateogon-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mateo-gonzalez-arrigorriaga-666092265/)
