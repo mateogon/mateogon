@@ -1,9 +1,5 @@
 # Hi there, I'm Mateo 👋
-I'm a **Full Stack Developer** and an **intern** working on simulation software. I enjoy building dynamic applications with **React**, **Node.js**, and **Python**, and exploring **AI models** for creative projects like:
-
-- **Text-to-Speech**: Creating audiobooks.  
-- **Object Detection**: Using YOLO for real-time tracking.  
-- **AI Experimentation**: Innovating with new models.
+I'm a **Full Stack Developer** and an **intern** working on simulation software. I enjoy building dynamic applications with **React**, **Node.js**, and **Python**, and exploring **AI models** for creative projects.
 
 ## Languages & Tools
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
