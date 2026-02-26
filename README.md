@@ -16,14 +16,14 @@ I'm a **Software Engineer** and **Full Stack Developer** working on building dyn
 </p>
 
 ### ⭐ Featured Projects
-- **[context-consolidator](https://github.com/mateogon/context-consolidator)**: A VS Code extension I built and use daily to quickly copy and consolidate multiple files into seamless context blocks for LLM prompting.
 - **[pdf-narrator](https://github.com/mateogon/pdf-narrator)**: An intelligent pipeline to convert PDFs and EPUBs into audiobooks, featuring text extraction and TTS optimized for low-resource systems.
 - **[Cadence](https://github.com/mateogon/Cadence)**: An immersive reading pipeline moving from EPUB to audiobook with synchronized reader playback.
+- **[context-consolidator](https://github.com/mateogon/context-consolidator)**: A VS Code extension I built and use daily to quickly copy and consolidate multiple files into seamless context blocks for LLM prompting.
 - **[LLM Utility Suite](https://github.com/mateogon/code-consolidator)**: Custom Python tools like `code-consolidator` and `EpubSummarizer` designed to streamline code and text extraction for efficient LLM interactions.
 
 ### 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateogon&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=mateogon&layout=compact&theme=tokyonight" alt="Top Languages" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mateogon&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
