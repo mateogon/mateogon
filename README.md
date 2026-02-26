@@ -1,5 +1,4 @@
 # Hi there, I'm Mateo 👋
-![](https://komarev.com/ghpvc/?username=mateogon)
 I'm a **Software Engineer** and **Full Stack Developer** working on building dynamic applications with **React**, **Node.js**, and **Python**, and exploring **AI models** for creative projects.
 
 ### 🔭 What I'm currently working on
