@@ -23,7 +23,7 @@ I'm a **Software Engineer** and **Full Stack Developer** working on building dyn
 
 ### 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=mateogon&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=mateogon&layout=compact&theme=tokyonight&hide=html" alt="Top Languages" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mateogon&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
